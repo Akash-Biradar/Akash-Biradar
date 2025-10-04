@@ -10,21 +10,22 @@
 
 ## 👨‍💻 About Me
 
-🚀 I'm currently learning **Next.js** and the **MERN Stack**  
-(<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"/> MongoDB,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="20" height="20"/> Express.js,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20"/> React.js,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20" height="20"/> Next.js,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"/> Node.js)  
+- 🚀 **Full-Stack Developer** currently focused on **Next.js** and the **MERN Stack**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18" height="18"/> MongoDB, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18" height="18"/> Express.js, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" height="18"/> React.js, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" height="18"/> Next.js, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" height="18"/> Node.js  
+  Building **dynamic and responsive web applications**.
 
-💡 I also enjoy working with  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> CSS,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript, and Framer Motion.  
+- 💡 **Other Skills:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" height="18"/> Java, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18" height="18"/> HTML, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18" height="18"/> CSS, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" height="18"/> JavaScript, 
+  **Framer Motion** — creating **modern, interactive, and responsive user interfaces**.
 
-🌱 I'm passionate about building web applications and exploring new technologies.
-
+- 🌱 Passionate about learning new technologies, improving skills, and contributing to meaningful projects.
 ---
 
 ## 🎓 Education
@@ -77,14 +78,14 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/akashbiradar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:iamakashbiradar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- 
+  <a href="mailto:akashbiradar@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/akashbiradar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/akashbiradar/count.svg)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=akashbiradar&color=blue)
 </p>
 
 ---
