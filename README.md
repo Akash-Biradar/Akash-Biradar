@@ -1,26 +1,27 @@
-### Hey! I'm Akash Biradar 👋
-Full-Stack Developer | Next.js & MERN Stack Enthusiast
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi-I'm%20Akash%20Biradar-blue?style=for-the-badge&logo=github" alt="Hi, I'm Akash Biradar"/>
+</p>
 
+<h3 align="center">Full-Stack Developer | Next.js & MERN Stack Enthusiast 👨‍💻</h3>
 
-Welcome to my GitHub profile!
+<p align="center">Welcome to my GitHub profile! 🚀</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🚀 I'm currently learning <b>Next.js</b> and the <b>MERN Stack</b>  
+🚀 I'm currently learning **Next.js** and the **MERN Stack**  
 (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"/> MongoDB,  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="20" height="20"/> Express.js,  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20"/> React.js,  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20" height="20"/> Next.js,  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"/> Node.js)  
-to become a full-stack web developer.
 
 💡 I also enjoy working with  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java,  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML,  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> CSS,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript, and Framer Motion.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript, and Framer Motion.  
 
 🌱 I'm passionate about building web applications and exploring new technologies.
 
@@ -28,34 +29,31 @@ to become a full-stack web developer.
 
 ## 🎓 Education
 
-- 🎓 **Bachelor of Computer Applications (BCA)**
-  - 📍 **SSMS BCA College, Athni**
-  - Status: Currently pursuing
+- **Bachelor of Computer Applications (BCA)**  
+  📍 SSMS BCA College, Athni  
+  Status: Currently pursuing
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the major projects I've built recently:
+### 🧪 Murughedra Lab Website
+- Full-featured **medical lab management platform** using **Next.js (Full Stack)** and **MongoDB**.  
+- Users can **book tests online**, manage appointments, and view reports.  
+- Includes **admin panel** for managing patients, test results, and schedules.  
+- **Tech Stack:** Next.js, MongoDB, Tailwind CSS  
+- **Tagline:** *“Doorstep Care. Trusted Testing.”*
 
-- 🧪 **Murughedra Lab Website** — A full-featured medical lab management platform built using **Next.js (Full Stack)** and **MongoDB**.  
-  - Allows users to **book tests online**, manage appointments, and view reports from home.  
-  - Includes a **dedicated admin panel** for managing patients, test results, and schedules.  
-  - Fully implemented using **Next.js API routes** (both frontend & backend in one app).  
-  - **Tech Stack:** Next.js, MongoDB, Tailwind CSS.  
-  - **Tagline:** *“Doorstep Care. Trusted Testing.”*
+### 🛒 E-Commerce Website
+- Complete shopping platform with **product listings, cart, and order management**.  
+- Features **user authentication, product filtering**, and **admin dashboard**.  
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT Authentication
 
-- 🛒 **E-Commerce Website** — A complete shopping platform with product listings, cart, and order management.  
-  - Features **user authentication**, **product filtering**, and **admin dashboard** for managing inventory.  
-  - Designed for a smooth shopping experience with modern UI.  
-  - **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT Authentication.
-
-- 🤖 **AI-Powered Job Portal** — A smart platform that connects job seekers and recruiters.  
-  - Integrates **AI-based resume screening** and **job matching algorithms** for better candidate selection.  
-  - Provides **real-time notifications** and **dashboard analytics** for admins.  
-  - **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, OpenAI API.
-
-I'm excited to keep learning and building more awesome projects!
+### 🤖 AI-Powered Job Portal
+- Smart platform connecting **job seekers and recruiters**.  
+- Integrates **AI-based resume screening** and **job matching algorithms**.  
+- **Admin dashboard** for user management and analytics.  
+- **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, OpenAI API
 
 ---
 
@@ -71,6 +69,22 @@ I'm excited to keep learning and building more awesome projects!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/akashbiradar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:iamakashbiradar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ 
+</p>
+
+---
+
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/akashbiradar/count.svg)
 </p>
 
 ---
