@@ -10,55 +10,34 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **Full-Stack Developer** currently focused on **Next.js** and the **MERN Stack**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18" height="18"/> MongoDB, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18" height="18"/> Express.js, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" height="18"/> React.js, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" height="18"/> Next.js, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" height="18"/> Node.js  
-  Building **dynamic and responsive web applications**.
+- 🚀 **Full-Stack Developer** focused on **Next.js** and the **MERN Stack**:  
+  ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) MongoDB,  
+  ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) Express.js,  
+  ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React.js,  
+  ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) Next.js,  
+  ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js  
+  — building **dynamic & responsive web applications**.
 
 - 💡 **Other Skills:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" height="18"/> Java, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18" height="18"/> HTML, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18" height="18"/> CSS, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" height="18"/> JavaScript, 
-  **Framer Motion** — creating **modern, interactive, and responsive user interfaces**.
+  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java,  
+  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML,  
+  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS,  
+  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript,  
+  **Framer Motion** — for **modern UI animations**.
 
-- 🌱 Passionate about learning new technologies, improving skills, and contributing to meaningful projects.
+- 🌱 Passionate about learning, improving, and contributing to meaningful projects.
+
 ---
 
 ## 🎓 Education
 
 - **Bachelor of Computer Applications (BCA)**  
   📍 SSMS BCA College, Athni  
-  Status: Currently pursuing
+  *Currently pursuing*
 
 ---
 
-## 🚀 Projects
-
-### 🧪 Murughedra Lab Website
-- Full-featured **medical lab management platform** using **Next.js (Full Stack)** and **MongoDB**.  
-- Users can **book tests online**, manage appointments, and view reports.  
-- Includes **admin panel** for managing patients, test results, and schedules.  
-- **Tech Stack:** Next.js, MongoDB, Tailwind CSS  
-- **Tagline:** *“Doorstep Care. Trusted Testing.”*
-
-### 🛒 E-Commerce Website
-- Complete shopping platform with **product listings, cart, and order management**.  
-- Features **user authentication, product filtering**, and **admin dashboard**.  
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT Authentication
-
-### 🤖 AI-Powered Job Portal
-- Smart platform connecting **job seekers and recruiters**.  
-- Integrates **AI-based resume screening** and **job matching algorithms**.  
-- **Admin dashboard** for user management and analytics.  
-- **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, OpenAI API
-
----
-
-## 🌟 Languages & Tools 🪛
+## 🌟 Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -74,6 +53,16 @@
 
 ---
 
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| **Murughedra Lab Website** | A full-featured medical lab management platform built with **Next.js** and **MongoDB**, allowing users to **book tests online**, view digital reports, and manage appointments. The **admin dashboard** gives control over patient data, test results, and scheduling. <br><br>**Tech stack:** Next.js, Node.js, Express.js, MongoDB, Tailwind CSS <br>**Live:** [m-lab website](https://m-lab-next-js-web.vercel.app) |
+| **E-Commerce Platform** | A shopping application with product listings, cart, and order management. Includes authentication, filtering, and an admin dashboard. <br><br>**Tech stack:** React, Node.js, Express, MongoDB, JWT |
+| **AI-Powered Job Portal** | A smart platform connecting job seekers and recruiters. Uses **AI for resume screening** & **job matching**, with admin analytics. <br><br>**Tech stack:** Next.js, Node.js, Express.js, MongoDB, OpenAI API |
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
@@ -84,10 +73,5 @@
 
 ---
 
-<p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=akashbiradar&color=blue)
-</p>
+✨ Thanks for visiting my profile! Feel free to explore my repos and reach out.
 
----
-
-✨ Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
